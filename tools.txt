@@ -3,3 +3,4 @@ maven is build tool for java
 jenkins is popular
 ansible is easy
 kubernetes is comprehensive
+argo cd is kibernetes cd tool
